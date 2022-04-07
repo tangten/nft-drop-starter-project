@@ -1,0 +1,19 @@
+{
+    "name": "God of War 2",
+    "symbol": "gow2",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "gCufnQ9WX4pZ5aakWydZQyZMW9zL8osct42G9UeLfNj",
+          "share": 100
+        }
+      ]
+    }
+  }

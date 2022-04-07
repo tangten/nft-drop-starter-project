@@ -1,0 +1,19 @@
+{
+    "name": "God of War 4",
+    "symbol": "gow4",
+    "image": "3.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "3.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "gCufnQ9WX4pZ5aakWydZQyZMW9zL8osct42G9UeLfNj",
+          "share": 100
+        }
+      ]
+    }
+  }

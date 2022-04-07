@@ -1,0 +1,19 @@
+{
+    "name": "God of War 3",
+    "symbol": "gow3",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "gCufnQ9WX4pZ5aakWydZQyZMW9zL8osct42G9UeLfNj",
+          "share": 100
+        }
+      ]
+    }
+  }
